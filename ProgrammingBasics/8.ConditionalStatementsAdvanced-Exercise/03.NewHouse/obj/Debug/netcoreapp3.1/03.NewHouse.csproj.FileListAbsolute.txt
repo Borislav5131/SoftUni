@@ -1,0 +1,13 @@
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.exe
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.deps.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.dev.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csprojAssemblyReference.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfoInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfo.cs
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.CoreCompileInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.genruntimeconfig.cache

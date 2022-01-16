@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.exe
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.deps.json
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.json
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.dll
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.pdb
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.dll
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.pdb
+D:\Проекти\Fundamentals\Methods-Lab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.genruntimeconfig.cache

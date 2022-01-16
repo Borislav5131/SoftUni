@@ -1,0 +1,13 @@
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.exe
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.deps.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.runtimeconfig.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.runtimeconfig.dev.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.csprojAssemblyReference.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.AssemblyInfoInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.AssemblyInfo.cs
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.genruntimeconfig.cache

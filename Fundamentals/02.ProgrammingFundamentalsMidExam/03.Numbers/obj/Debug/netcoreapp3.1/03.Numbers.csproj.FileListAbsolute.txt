@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.exe
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.deps.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.runtimeconfig.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.AssemblyInfo.cs
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.genruntimeconfig.cache

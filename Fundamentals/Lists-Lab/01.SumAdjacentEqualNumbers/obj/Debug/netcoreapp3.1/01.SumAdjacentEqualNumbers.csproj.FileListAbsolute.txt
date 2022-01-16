@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.exe
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.deps.json
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.runtimeconfig.json
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.dll
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.pdb
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.dll
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.pdb
+D:\Проекти\Fundamentals\Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.genruntimeconfig.cache

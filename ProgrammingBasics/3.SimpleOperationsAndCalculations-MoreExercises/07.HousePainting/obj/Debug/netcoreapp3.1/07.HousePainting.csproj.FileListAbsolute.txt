@@ -1,0 +1,13 @@
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.exe
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.deps.json
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.runtimeconfig.json
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.runtimeconfig.dev.json
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.dll
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.pdb
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.AssemblyInfoInputs.cache
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.AssemblyInfo.cs
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.dll
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.pdb
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.genruntimeconfig.cache
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.csprojAssemblyReference.cache

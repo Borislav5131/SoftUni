@@ -1,0 +1,12 @@
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\obj\Debug\netcoreapp3.1\07.FruitMarket.AssemblyInfoInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\obj\Debug\netcoreapp3.1\07.FruitMarket.AssemblyInfo.cs
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\obj\Debug\netcoreapp3.1\07.FruitMarket.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\bin\Debug\netcoreapp3.1\07.FruitMarket.exe
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\bin\Debug\netcoreapp3.1\07.FruitMarket.deps.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\bin\Debug\netcoreapp3.1\07.FruitMarket.runtimeconfig.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\bin\Debug\netcoreapp3.1\07.FruitMarket.runtimeconfig.dev.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\bin\Debug\netcoreapp3.1\07.FruitMarket.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\bin\Debug\netcoreapp3.1\07.FruitMarket.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\obj\Debug\netcoreapp3.1\07.FruitMarket.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\obj\Debug\netcoreapp3.1\07.FruitMarket.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\07.FruitMarket\obj\Debug\netcoreapp3.1\07.FruitMarket.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.exe
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.deps.json
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.runtimeconfig.json
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.runtimeconfig.dev.json
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.dll
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.pdb
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.AssemblyInfoInputs.cache
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.AssemblyInfo.cs
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.csproj.CoreCompileInputs.cache
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.dll
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.pdb
+D:\Проекти\ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.genruntimeconfig.cache

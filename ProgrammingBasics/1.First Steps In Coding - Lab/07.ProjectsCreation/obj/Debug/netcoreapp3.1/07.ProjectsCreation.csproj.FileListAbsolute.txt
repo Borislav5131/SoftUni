@@ -1,0 +1,13 @@
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.exe
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.deps.json
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.json
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.dev.json
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.csprojAssemblyReference.cache
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfoInputs.cache
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfo.cs
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+D:\Проекти\First Steps In Coding - Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.genruntimeconfig.cache

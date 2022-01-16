@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.exe
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.deps.json
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.runtimeconfig.json
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.dll
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.pdb
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.AssemblyInfo.cs
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.dll
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.pdb
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.genruntimeconfig.cache

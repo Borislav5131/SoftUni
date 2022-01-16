@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\bin\Debug\netcoreapp3.1\03.ThePianist.exe
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\bin\Debug\netcoreapp3.1\03.ThePianist.deps.json
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\bin\Debug\netcoreapp3.1\03.ThePianist.runtimeconfig.json
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\bin\Debug\netcoreapp3.1\03.ThePianist.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\bin\Debug\netcoreapp3.1\03.ThePianist.dll
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\bin\Debug\netcoreapp3.1\03.ThePianist.pdb
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\obj\Debug\netcoreapp3.1\03.ThePianist.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\obj\Debug\netcoreapp3.1\03.ThePianist.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\obj\Debug\netcoreapp3.1\03.ThePianist.AssemblyInfo.cs
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\obj\Debug\netcoreapp3.1\03.ThePianist.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\obj\Debug\netcoreapp3.1\03.ThePianist.dll
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\obj\Debug\netcoreapp3.1\03.ThePianist.pdb
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\03.ThePianist\obj\Debug\netcoreapp3.1\03.ThePianist.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.exe
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.deps.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfo.cs
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.genruntimeconfig.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csprojAssemblyReference.cache

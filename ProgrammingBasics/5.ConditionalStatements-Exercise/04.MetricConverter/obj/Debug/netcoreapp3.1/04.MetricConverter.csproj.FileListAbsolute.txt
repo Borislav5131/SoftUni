@@ -1,0 +1,12 @@
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.exe
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.deps.json
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.runtimeconfig.json
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.runtimeconfig.dev.json
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.dll
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.pdb
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.AssemblyInfoInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.AssemblyInfo.cs
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.dll
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.pdb
+C:\(D)\Проекти\ConditionalStatements-Exercise\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.genruntimeconfig.cache

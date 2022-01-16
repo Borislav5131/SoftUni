@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DefineAClassPerson", "01.DefineAClassPerson\01.DefineAClassPerson.csproj", "{727ED40E-DAFA-4DC4-9396-BD95FD7259EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.OpinionPoll", "04.OpinionPoll\04.OpinionPoll.csproj", "{EAF64D97-7934-442E-84A5-73B93C78CAB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DataModifier", "05.DataModifier\05.DataModifier.csproj", "{35A70D51-8029-44DD-99E5-72A266BE4CC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.SpeedRacing", "06.SpeedRacing\06.SpeedRacing.csproj", "{B3F04EAE-98CD-40D5-A90D-48BC1056F1A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.RawData", "07.RawData\07.RawData.csproj", "{753BADA7-1D5B-4918-96A4-57AD4991D0EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.CarSalesman", "08.CarSalesman\08.CarSalesman.csproj", "{65AAD778-0D68-45BC-ABF9-DADE4A6565CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PokemonTrainer", "09.PokemonTrainer\09.PokemonTrainer.csproj", "{4C186F03-353F-4BA2-9299-9D88AD042EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727ED40E-DAFA-4DC4-9396-BD95FD7259EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727ED40E-DAFA-4DC4-9396-BD95FD7259EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727ED40E-DAFA-4DC4-9396-BD95FD7259EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727ED40E-DAFA-4DC4-9396-BD95FD7259EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF64D97-7934-442E-84A5-73B93C78CAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF64D97-7934-442E-84A5-73B93C78CAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF64D97-7934-442E-84A5-73B93C78CAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF64D97-7934-442E-84A5-73B93C78CAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A70D51-8029-44DD-99E5-72A266BE4CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A70D51-8029-44DD-99E5-72A266BE4CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A70D51-8029-44DD-99E5-72A266BE4CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A70D51-8029-44DD-99E5-72A266BE4CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F04EAE-98CD-40D5-A90D-48BC1056F1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F04EAE-98CD-40D5-A90D-48BC1056F1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F04EAE-98CD-40D5-A90D-48BC1056F1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F04EAE-98CD-40D5-A90D-48BC1056F1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{753BADA7-1D5B-4918-96A4-57AD4991D0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753BADA7-1D5B-4918-96A4-57AD4991D0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753BADA7-1D5B-4918-96A4-57AD4991D0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753BADA7-1D5B-4918-96A4-57AD4991D0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AAD778-0D68-45BC-ABF9-DADE4A6565CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AAD778-0D68-45BC-ABF9-DADE4A6565CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AAD778-0D68-45BC-ABF9-DADE4A6565CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AAD778-0D68-45BC-ABF9-DADE4A6565CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C186F03-353F-4BA2-9299-9D88AD042EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C186F03-353F-4BA2-9299-9D88AD042EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C186F03-353F-4BA2-9299-9D88AD042EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C186F03-353F-4BA2-9299-9D88AD042EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E97B2DFC-81AF-4EFE-B48C-BFA588848CE9}
+	EndGlobalSection
+EndGlobal

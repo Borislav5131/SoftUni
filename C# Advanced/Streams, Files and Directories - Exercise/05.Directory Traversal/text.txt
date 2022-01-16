@@ -1,0 +1,2 @@
+.sln
+--Streams, Files and Directories - Exercise.sln - 3.0791015625kb

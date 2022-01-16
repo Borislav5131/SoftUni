@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.exe
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.deps.json
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.runtimeconfig.json
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.dll
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.pdb
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.dll
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.pdb
+D:\Проекти\Fundamentals\Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesAndReverse.genruntimeconfig.cache

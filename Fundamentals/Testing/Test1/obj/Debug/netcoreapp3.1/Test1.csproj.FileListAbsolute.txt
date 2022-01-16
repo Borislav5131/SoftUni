@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Testing\Test1\bin\Debug\netcoreapp3.1\Test1.exe
+D:\Проекти\Fundamentals\Testing\Test1\bin\Debug\netcoreapp3.1\Test1.deps.json
+D:\Проекти\Fundamentals\Testing\Test1\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.json
+D:\Проекти\Fundamentals\Testing\Test1\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Testing\Test1\bin\Debug\netcoreapp3.1\Test1.dll
+D:\Проекти\Fundamentals\Testing\Test1\bin\Debug\netcoreapp3.1\Test1.pdb
+D:\Проекти\Fundamentals\Testing\Test1\obj\Debug\netcoreapp3.1\Test1.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Testing\Test1\obj\Debug\netcoreapp3.1\Test1.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Testing\Test1\obj\Debug\netcoreapp3.1\Test1.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Testing\Test1\obj\Debug\netcoreapp3.1\Test1.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Testing\Test1\obj\Debug\netcoreapp3.1\Test1.dll
+D:\Проекти\Fundamentals\Testing\Test1\obj\Debug\netcoreapp3.1\Test1.pdb
+D:\Проекти\Fundamentals\Testing\Test1\obj\Debug\netcoreapp3.1\Test1.genruntimeconfig.cache

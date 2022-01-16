@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.exe
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.deps.json
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.json
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.dll
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfo.cs
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.dll
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+D:\Проекти\Fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.genruntimeconfig.cache

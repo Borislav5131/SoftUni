@@ -1,0 +1,12 @@
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.exe
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.deps.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.runtimeconfig.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.AssemblyInfo.cs
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.genruntimeconfig.cache

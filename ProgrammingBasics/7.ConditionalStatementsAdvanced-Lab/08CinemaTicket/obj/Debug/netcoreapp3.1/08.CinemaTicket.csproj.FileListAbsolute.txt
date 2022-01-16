@@ -1,0 +1,12 @@
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.exe
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.deps.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.runtimeconfig.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.runtimeconfig.dev.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.AssemblyInfoInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.AssemblyInfo.cs
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.csproj.CoreCompileInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\08CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.genruntimeconfig.cache

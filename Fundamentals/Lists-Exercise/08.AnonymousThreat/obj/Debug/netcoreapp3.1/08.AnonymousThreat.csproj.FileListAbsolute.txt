@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.exe
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.deps.json
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.runtimeconfig.json
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.dll
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.dll
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.genruntimeconfig.cache

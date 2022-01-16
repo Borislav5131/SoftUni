@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.exe
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.deps.json
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.json
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfo.cs
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.genruntimeconfig.cache

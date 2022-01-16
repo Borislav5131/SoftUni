@@ -1,0 +1,12 @@
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.exe
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.deps.json
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.runtimeconfig.json
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.runtimeconfig.dev.json
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.dll
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.pdb
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.AssemblyInfoInputs.cache
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.AssemblyInfo.cs
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.csproj.CoreCompileInputs.cache
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.dll
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.pdb
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.exe
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.deps.json
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.json
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.dev.json
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csprojAssemblyReference.cache
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfoInputs.cache
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfo.cs
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+D:\Проекти\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.genruntimeconfig.cache

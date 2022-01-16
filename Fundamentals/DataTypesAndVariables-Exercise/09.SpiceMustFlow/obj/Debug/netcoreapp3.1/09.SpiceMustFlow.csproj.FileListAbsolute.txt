@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.exe
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.deps.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.runtimeconfig.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.AssemblyInfo.cs
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.exe
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.deps.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.runtimeconfig.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.runtimeconfig.dev.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.csprojAssemblyReference.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.AssemblyInfo.cs
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.genruntimeconfig.cache

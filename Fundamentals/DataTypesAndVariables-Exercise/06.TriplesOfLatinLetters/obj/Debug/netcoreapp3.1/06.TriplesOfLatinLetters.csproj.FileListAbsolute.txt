@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.exe
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.deps.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.runtimeconfig.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.AssemblyInfo.cs
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.genruntimeconfig.cache

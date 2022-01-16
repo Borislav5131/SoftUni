@@ -1,0 +1,12 @@
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.exe
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.deps.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.runtimeconfig.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.runtimeconfig.dev.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.AssemblyInfoInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.AssemblyInfo.cs
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.csproj.CoreCompileInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\bin\Debug\netcoreapp3.1\01.MiningRig.exe
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\bin\Debug\netcoreapp3.1\01.MiningRig.deps.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\bin\Debug\netcoreapp3.1\01.MiningRig.runtimeconfig.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\bin\Debug\netcoreapp3.1\01.MiningRig.runtimeconfig.dev.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\bin\Debug\netcoreapp3.1\01.MiningRig.dll
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\bin\Debug\netcoreapp3.1\01.MiningRig.pdb
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\obj\Debug\netcoreapp3.1\01.MiningRig.csprojAssemblyReference.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\obj\Debug\netcoreapp3.1\01.MiningRig.AssemblyInfoInputs.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\obj\Debug\netcoreapp3.1\01.MiningRig.AssemblyInfo.cs
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\obj\Debug\netcoreapp3.1\01.MiningRig.csproj.CoreCompileInputs.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\obj\Debug\netcoreapp3.1\01.MiningRig.dll
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\obj\Debug\netcoreapp3.1\01.MiningRig.pdb
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\01.MiningRig\obj\Debug\netcoreapp3.1\01.MiningRig.genruntimeconfig.cache

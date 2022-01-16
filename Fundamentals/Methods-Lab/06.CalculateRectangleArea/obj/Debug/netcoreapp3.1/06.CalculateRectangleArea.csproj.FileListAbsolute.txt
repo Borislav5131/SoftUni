@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\bin\Debug\netcoreapp3.1\06.CalculateRectangleArea.exe
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\bin\Debug\netcoreapp3.1\06.CalculateRectangleArea.deps.json
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\bin\Debug\netcoreapp3.1\06.CalculateRectangleArea.runtimeconfig.json
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\bin\Debug\netcoreapp3.1\06.CalculateRectangleArea.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\bin\Debug\netcoreapp3.1\06.CalculateRectangleArea.dll
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\bin\Debug\netcoreapp3.1\06.CalculateRectangleArea.pdb
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\obj\Debug\netcoreapp3.1\06.CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\obj\Debug\netcoreapp3.1\06.CalculateRectangleArea.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\obj\Debug\netcoreapp3.1\06.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\obj\Debug\netcoreapp3.1\06.CalculateRectangleArea.dll
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\obj\Debug\netcoreapp3.1\06.CalculateRectangleArea.pdb
+D:\Проекти\Fundamentals\Methods-Lab\06.CalculateRectangleArea\obj\Debug\netcoreapp3.1\06.CalculateRectangleArea.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+Scaffold-DbContext -Connection "Server=.;Database=SoftUni;User id = sa;pwd = SoftUniserver! ;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data/Models

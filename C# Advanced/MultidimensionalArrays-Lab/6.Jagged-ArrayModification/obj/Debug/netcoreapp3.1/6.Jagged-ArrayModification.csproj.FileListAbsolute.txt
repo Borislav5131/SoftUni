@@ -1,0 +1,12 @@
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.exe
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.deps.json
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.runtimeconfig.json
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.runtimeconfig.dev.json
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.dll
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\6.Jagged-ArrayModification.pdb
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.AssemblyInfoInputs.cache
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.AssemblyInfo.cs
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.dll
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.pdb
+D:\Проекти\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\6.Jagged-ArrayModification.genruntimeconfig.cache

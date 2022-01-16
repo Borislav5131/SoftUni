@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.exe
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.deps.json
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.runtimeconfig.json
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.dll
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.pdb
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.AssemblyInfo.cs
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.dll
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.pdb
+D:\Проекти\Fundamentals\TextProcessing-Lab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.genruntimeconfig.cache

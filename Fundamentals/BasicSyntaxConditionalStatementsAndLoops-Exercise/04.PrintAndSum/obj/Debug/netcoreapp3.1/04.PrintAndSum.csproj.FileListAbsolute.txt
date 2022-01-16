@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.exe
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.deps.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfo.cs
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.genruntimeconfig.cache

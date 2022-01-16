@@ -1,0 +1,13 @@
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.exe
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.deps.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.runtimeconfig.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.runtimeconfig.dev.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.csprojAssemblyReference.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.AssemblyInfoInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.AssemblyInfo.cs
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.csproj.CoreCompileInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.genruntimeconfig.cache

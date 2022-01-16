@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.exe
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.deps.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfo.cs
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.genruntimeconfig.cache

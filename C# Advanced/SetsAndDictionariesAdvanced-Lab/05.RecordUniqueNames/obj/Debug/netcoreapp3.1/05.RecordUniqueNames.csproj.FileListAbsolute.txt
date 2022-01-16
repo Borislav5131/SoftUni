@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.exe
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.deps.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.runtimeconfig.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.AssemblyInfo.cs
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.genruntimeconfig.cache

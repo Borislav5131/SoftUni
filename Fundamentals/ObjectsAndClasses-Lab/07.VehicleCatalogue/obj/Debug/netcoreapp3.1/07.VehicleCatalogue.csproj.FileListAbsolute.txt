@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.exe
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.deps.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.runtimeconfig.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.AssemblyInfo.cs
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.genruntimeconfig.cache

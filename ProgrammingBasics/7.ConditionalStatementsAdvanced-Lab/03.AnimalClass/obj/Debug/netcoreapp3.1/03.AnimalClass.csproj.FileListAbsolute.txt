@@ -1,0 +1,13 @@
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.exe
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.deps.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.runtimeconfig.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.runtimeconfig.dev.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.csprojAssemblyReference.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.AssemblyInfoInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.AssemblyInfo.cs
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.csproj.CoreCompileInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.genruntimeconfig.cache

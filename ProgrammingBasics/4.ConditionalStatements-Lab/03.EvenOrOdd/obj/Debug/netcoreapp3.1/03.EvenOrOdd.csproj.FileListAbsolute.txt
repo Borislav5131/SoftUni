@@ -1,0 +1,12 @@
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.exe
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.deps.json
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.runtimeconfig.json
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.runtimeconfig.dev.json
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.dll
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.pdb
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.AssemblyInfoInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.AssemblyInfo.cs
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.dll
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.pdb
+C:\(D)\Проекти\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\bin\Debug\netcoreapp3.1\03.FootballSouvenirs.exe
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\bin\Debug\netcoreapp3.1\03.FootballSouvenirs.deps.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\bin\Debug\netcoreapp3.1\03.FootballSouvenirs.runtimeconfig.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\bin\Debug\netcoreapp3.1\03.FootballSouvenirs.runtimeconfig.dev.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\bin\Debug\netcoreapp3.1\03.FootballSouvenirs.dll
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\bin\Debug\netcoreapp3.1\03.FootballSouvenirs.pdb
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\obj\Debug\netcoreapp3.1\03.FootballSouvenirs.csprojAssemblyReference.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\obj\Debug\netcoreapp3.1\03.FootballSouvenirs.AssemblyInfoInputs.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\obj\Debug\netcoreapp3.1\03.FootballSouvenirs.AssemblyInfo.cs
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\obj\Debug\netcoreapp3.1\03.FootballSouvenirs.csproj.CoreCompileInputs.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\obj\Debug\netcoreapp3.1\03.FootballSouvenirs.dll
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\obj\Debug\netcoreapp3.1\03.FootballSouvenirs.pdb
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\03.FootballSouvenirs\obj\Debug\netcoreapp3.1\03.FootballSouvenirs.genruntimeconfig.cache

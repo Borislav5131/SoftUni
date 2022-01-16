@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp3.1\06.EqualSum.exe
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp3.1\06.EqualSum.deps.json
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp3.1\06.EqualSum.runtimeconfig.json
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp3.1\06.EqualSum.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp3.1\06.EqualSum.dll
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp3.1\06.EqualSum.pdb
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp3.1\06.EqualSum.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp3.1\06.EqualSum.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp3.1\06.EqualSum.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp3.1\06.EqualSum.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp3.1\06.EqualSum.dll
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp3.1\06.EqualSum.pdb
+D:\Проекти\Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp3.1\06.EqualSum.genruntimeconfig.cache

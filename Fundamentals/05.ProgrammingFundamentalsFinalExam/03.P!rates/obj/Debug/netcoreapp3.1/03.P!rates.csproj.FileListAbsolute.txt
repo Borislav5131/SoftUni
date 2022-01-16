@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.exe
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.deps.json
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.json
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.dll
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.pdb
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfo.cs
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.dll
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.pdb
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.genruntimeconfig.cache

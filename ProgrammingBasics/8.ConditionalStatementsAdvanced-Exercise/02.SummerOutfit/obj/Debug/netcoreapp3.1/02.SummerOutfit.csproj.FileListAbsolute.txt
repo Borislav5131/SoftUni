@@ -1,0 +1,13 @@
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.exe
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.deps.json
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.json
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.dev.json
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.dll
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csprojAssemblyReference.cache
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfoInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfo.cs
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csproj.CoreCompileInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.dll
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.genruntimeconfig.cache

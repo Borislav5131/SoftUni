@@ -1,0 +1,12 @@
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.exe
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.deps.json
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.json
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.dev.json
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.dll
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfoInputs.cache
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfo.cs
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.csproj.CoreCompileInputs.cache
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.dll
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+D:\Проекти\First Steps In Coding - Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.genruntimeconfig.cache

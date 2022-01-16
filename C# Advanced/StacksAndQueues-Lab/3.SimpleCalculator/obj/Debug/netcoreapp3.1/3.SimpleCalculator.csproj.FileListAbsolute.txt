@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.genruntimeconfig.cache

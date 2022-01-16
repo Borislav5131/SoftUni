@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>06.SpeedRacing</id>
+    <version>1.0.0</version>
+    <authors>06.SpeedRacing</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\C# Advanced\DefiningClasses-Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.runtimeconfig.json" target="lib\netcoreapp3.1\06.SpeedRacing.runtimeconfig.json" />
+    <file src="D:\Projects\C# Advanced\DefiningClasses-Exercise\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.dll" target="lib\netcoreapp3.1\06.SpeedRacing.dll" />
+  </files>
+</package>

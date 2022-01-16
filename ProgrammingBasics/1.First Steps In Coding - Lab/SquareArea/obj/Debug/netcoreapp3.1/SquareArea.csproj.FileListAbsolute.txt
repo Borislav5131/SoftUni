@@ -1,0 +1,13 @@
+D:\Проекти\First Steps In Coding - Lab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.exe
+D:\Проекти\First Steps In Coding - Lab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.deps.json
+D:\Проекти\First Steps In Coding - Lab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.json
+D:\Проекти\First Steps In Coding - Lab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.dev.json
+D:\Проекти\First Steps In Coding - Lab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.dll
+D:\Проекти\First Steps In Coding - Lab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.pdb
+D:\Проекти\First Steps In Coding - Lab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csprojAssemblyReference.cache
+D:\Проекти\First Steps In Coding - Lab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfoInputs.cache
+D:\Проекти\First Steps In Coding - Lab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfo.cs
+D:\Проекти\First Steps In Coding - Lab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csproj.CoreCompileInputs.cache
+D:\Проекти\First Steps In Coding - Lab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.dll
+D:\Проекти\First Steps In Coding - Lab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.pdb
+D:\Проекти\First Steps In Coding - Lab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.genruntimeconfig.cache

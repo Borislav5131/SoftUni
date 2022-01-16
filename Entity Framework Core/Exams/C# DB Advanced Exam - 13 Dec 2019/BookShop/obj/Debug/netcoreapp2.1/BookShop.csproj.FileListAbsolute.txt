@@ -1,0 +1,13 @@
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.AssemblyReference.cache
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+D:\Projects\SoftUni\Entity Framework Core\Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache

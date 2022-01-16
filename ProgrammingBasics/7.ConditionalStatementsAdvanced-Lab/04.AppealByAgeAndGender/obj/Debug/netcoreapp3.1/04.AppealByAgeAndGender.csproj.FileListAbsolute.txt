@@ -1,0 +1,13 @@
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\bin\Debug\netcoreapp3.1\04.AppealByAgeAndGender.exe
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\bin\Debug\netcoreapp3.1\04.AppealByAgeAndGender.deps.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\bin\Debug\netcoreapp3.1\04.AppealByAgeAndGender.runtimeconfig.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\bin\Debug\netcoreapp3.1\04.AppealByAgeAndGender.runtimeconfig.dev.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\bin\Debug\netcoreapp3.1\04.AppealByAgeAndGender.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\bin\Debug\netcoreapp3.1\04.AppealByAgeAndGender.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\obj\Debug\netcoreapp3.1\04.AppealByAgeAndGender.csprojAssemblyReference.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\obj\Debug\netcoreapp3.1\04.AppealByAgeAndGender.AssemblyInfoInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\obj\Debug\netcoreapp3.1\04.AppealByAgeAndGender.AssemblyInfo.cs
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\obj\Debug\netcoreapp3.1\04.AppealByAgeAndGender.csproj.CoreCompileInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\obj\Debug\netcoreapp3.1\04.AppealByAgeAndGender.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\obj\Debug\netcoreapp3.1\04.AppealByAgeAndGender.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\04.AppealByAgeAndGender\obj\Debug\netcoreapp3.1\04.AppealByAgeAndGender.genruntimeconfig.cache

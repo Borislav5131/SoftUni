@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.exe
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.deps.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.runtimeconfig.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfo.cs
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.genruntimeconfig.cache

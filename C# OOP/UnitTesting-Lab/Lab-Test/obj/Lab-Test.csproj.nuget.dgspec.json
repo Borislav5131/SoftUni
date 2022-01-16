@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Lab-Test\\Lab-Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Lab-Test\\Lab-Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Lab-Test\\Lab-Test.csproj",
+        "projectName": "Lab-Test",
+        "projectPath": "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Lab-Test\\Lab-Test.csproj",
+        "packagesPath": "C:\\Users\\borko\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Lab-Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Skeleton\\Skeleton.csproj": {
+                "projectPath": "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Skeleton\\Skeleton.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Skeleton\\Skeleton.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Skeleton\\Skeleton.csproj",
+        "projectName": "Skeleton",
+        "projectPath": "D:\\Projects\\C# OOP\\UnitTesting-Lab\\Skeleton\\Skeleton.csproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    }
+  }
+}

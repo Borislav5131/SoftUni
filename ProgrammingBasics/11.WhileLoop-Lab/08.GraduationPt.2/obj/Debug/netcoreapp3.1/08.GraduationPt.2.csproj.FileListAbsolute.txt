@@ -1,0 +1,12 @@
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\bin\Debug\netcoreapp3.1\08.GraduationPt.2.exe
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\bin\Debug\netcoreapp3.1\08.GraduationPt.2.deps.json
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\bin\Debug\netcoreapp3.1\08.GraduationPt.2.runtimeconfig.json
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\bin\Debug\netcoreapp3.1\08.GraduationPt.2.runtimeconfig.dev.json
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\bin\Debug\netcoreapp3.1\08.GraduationPt.2.dll
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\bin\Debug\netcoreapp3.1\08.GraduationPt.2.pdb
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\obj\Debug\netcoreapp3.1\08.GraduationPt.2.AssemblyInfoInputs.cache
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\obj\Debug\netcoreapp3.1\08.GraduationPt.2.AssemblyInfo.cs
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\obj\Debug\netcoreapp3.1\08.GraduationPt.2.csproj.CoreCompileInputs.cache
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\obj\Debug\netcoreapp3.1\08.GraduationPt.2.dll
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\obj\Debug\netcoreapp3.1\08.GraduationPt.2.pdb
+D:\Проекти\11.WhileLoop-Lab\08.GraduationPt.2\obj\Debug\netcoreapp3.1\08.GraduationPt.2.genruntimeconfig.cache

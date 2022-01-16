@@ -1,0 +1,13 @@
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.exe
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.deps.json
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.json
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.dev.json
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.dll
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.pdb
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.AssemblyReference.cache
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfoInputs.cache
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfo.cs
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.CoreCompileInputs.cache
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.dll
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.pdb
+C:\D)\Projects\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.genruntimeconfig.cache

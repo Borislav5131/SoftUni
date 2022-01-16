@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.exe
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.deps.json
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.runtimeconfig.json
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.dll
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.pdb
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.dll
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.pdb
+D:\Проекти\Fundamentals\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.genruntimeconfig.cache

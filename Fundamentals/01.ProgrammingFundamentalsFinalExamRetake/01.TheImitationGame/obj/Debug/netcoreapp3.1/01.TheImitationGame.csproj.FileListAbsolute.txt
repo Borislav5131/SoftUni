@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.exe
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.deps.json
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.runtimeconfig.json
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.dll
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.pdb
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.AssemblyInfo.cs
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.dll
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.pdb
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.genruntimeconfig.cache

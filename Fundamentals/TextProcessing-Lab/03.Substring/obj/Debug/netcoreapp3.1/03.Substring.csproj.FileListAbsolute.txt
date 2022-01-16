@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp3.1\03.Substring.exe
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp3.1\03.Substring.deps.json
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp3.1\03.Substring.runtimeconfig.json
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp3.1\03.Substring.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp3.1\03.Substring.dll
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp3.1\03.Substring.pdb
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp3.1\03.Substring.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp3.1\03.Substring.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp3.1\03.Substring.AssemblyInfo.cs
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp3.1\03.Substring.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp3.1\03.Substring.dll
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp3.1\03.Substring.pdb
+D:\Проекти\Fundamentals\TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp3.1\03.Substring.genruntimeconfig.cache

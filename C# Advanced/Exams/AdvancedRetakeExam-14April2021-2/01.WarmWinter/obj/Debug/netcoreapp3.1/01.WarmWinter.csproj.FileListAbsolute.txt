@@ -1,0 +1,13 @@
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.exe
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.deps.json
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.runtimeconfig.json
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.runtimeconfig.dev.json
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.dll
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.pdb
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.csproj.AssemblyReference.cache
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.AssemblyInfoInputs.cache
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.AssemblyInfo.cs
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.csproj.CoreCompileInputs.cache
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.dll
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.pdb
+D:\Projects\C# Advanced\Exams\AdvancedRetakeExam-14April2021-2\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.exe
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.deps.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfo.cs
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.genruntimeconfig.cache

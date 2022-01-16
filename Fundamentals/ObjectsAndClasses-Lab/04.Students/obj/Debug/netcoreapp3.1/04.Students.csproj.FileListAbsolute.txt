@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\bin\Debug\netcoreapp3.1\04.Students.exe
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\bin\Debug\netcoreapp3.1\04.Students.deps.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\bin\Debug\netcoreapp3.1\04.Students.runtimeconfig.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\bin\Debug\netcoreapp3.1\04.Students.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\bin\Debug\netcoreapp3.1\04.Students.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\bin\Debug\netcoreapp3.1\04.Students.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\obj\Debug\netcoreapp3.1\04.Students.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\obj\Debug\netcoreapp3.1\04.Students.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\obj\Debug\netcoreapp3.1\04.Students.AssemblyInfo.cs
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\obj\Debug\netcoreapp3.1\04.Students.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\obj\Debug\netcoreapp3.1\04.Students.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\obj\Debug\netcoreapp3.1\04.Students.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\04.Students\obj\Debug\netcoreapp3.1\04.Students.genruntimeconfig.cache

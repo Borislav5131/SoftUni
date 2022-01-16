@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.genruntimeconfig.cache

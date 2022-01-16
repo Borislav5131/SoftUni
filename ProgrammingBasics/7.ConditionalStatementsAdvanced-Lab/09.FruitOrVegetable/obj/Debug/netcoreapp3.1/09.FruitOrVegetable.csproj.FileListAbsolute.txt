@@ -1,0 +1,12 @@
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.exe
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.deps.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.dev.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfoInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfo.cs
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.genruntimeconfig.cache

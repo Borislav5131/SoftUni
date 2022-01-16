@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.exe
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.deps.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.runtimeconfig.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.AssemblyInfo.cs
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.genruntimeconfig.cache

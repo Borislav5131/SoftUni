@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.exe
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.deps.json
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.json
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.dll
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.pdb
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfo.cs
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.dll
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.pdb
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.genruntimeconfig.cache

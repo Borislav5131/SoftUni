@@ -1,0 +1,6 @@
+Ако има base class and it should not be able to be instantiated класа трябва да е abstract.
+Ако имаме проверка на property, трябва да имаме private field и public prop.
+Ако в interface-са property-то има само get, значи в класа то трябва да има private set.
+Всички класове, които създаваме трябва да са public.
+При писането на List да използваме Interfaces и да не забравяме да ги инициялизираме!
+Типа на класа се взима с GetType().Name;

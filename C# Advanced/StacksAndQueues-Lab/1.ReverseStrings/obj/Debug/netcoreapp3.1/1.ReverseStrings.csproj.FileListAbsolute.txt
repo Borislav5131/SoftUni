@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.genruntimeconfig.cache

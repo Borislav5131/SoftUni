@@ -1,0 +1,13 @@
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.exe
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.deps.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csprojAssemblyReference.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+C:\Users\borko\source\repos\Data Types and Variables - Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.genruntimeconfig.cache

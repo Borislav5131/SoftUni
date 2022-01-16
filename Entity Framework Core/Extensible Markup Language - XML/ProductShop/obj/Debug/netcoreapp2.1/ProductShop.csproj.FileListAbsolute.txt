@@ -1,0 +1,13 @@
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Projects\SoftUni\Entity Framework Core\Extensible Markup Language - XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache

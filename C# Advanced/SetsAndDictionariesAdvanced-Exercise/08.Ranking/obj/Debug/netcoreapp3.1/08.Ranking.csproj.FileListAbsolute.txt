@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.exe
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.deps.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.runtimeconfig.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.AssemblyInfo.cs
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.exe
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.deps.json
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.json
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.dev.json
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.pdb
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csprojAssemblyReference.cache
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfoInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfo.cs
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csproj.CoreCompileInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.pdb
+D:\Проекти\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.genruntimeconfig.cache

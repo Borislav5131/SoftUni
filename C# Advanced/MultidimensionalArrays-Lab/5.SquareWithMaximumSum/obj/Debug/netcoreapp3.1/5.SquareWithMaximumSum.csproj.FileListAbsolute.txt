@@ -1,0 +1,12 @@
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.exe
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.deps.json
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.runtimeconfig.json
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.runtimeconfig.dev.json
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.dll
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.pdb
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.AssemblyInfo.cs
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.dll
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.pdb
+D:\Проекти\MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.genruntimeconfig.cache

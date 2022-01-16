@@ -1,0 +1,13 @@
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.exe
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.deps.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.dll
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.pdb
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.csprojAssemblyReference.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.dll
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.pdb
+C:\Users\borko\source\repos\Data Types and Variables - Lab\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumOfRealNumbers.genruntimeconfig.cache

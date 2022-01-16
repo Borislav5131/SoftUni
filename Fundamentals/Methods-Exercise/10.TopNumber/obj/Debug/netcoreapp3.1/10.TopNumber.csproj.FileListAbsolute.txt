@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\obj\Debug\netcoreapp3.1\10.TopNumber.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\obj\Debug\netcoreapp3.1\10.TopNumber.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\obj\Debug\netcoreapp3.1\10.TopNumber.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\bin\Debug\netcoreapp3.1\10.TopNumber.exe
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\bin\Debug\netcoreapp3.1\10.TopNumber.deps.json
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\bin\Debug\netcoreapp3.1\10.TopNumber.runtimeconfig.json
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\bin\Debug\netcoreapp3.1\10.TopNumber.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\bin\Debug\netcoreapp3.1\10.TopNumber.dll
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\bin\Debug\netcoreapp3.1\10.TopNumber.pdb
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\obj\Debug\netcoreapp3.1\10.TopNumber.dll
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\obj\Debug\netcoreapp3.1\10.TopNumber.pdb
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\obj\Debug\netcoreapp3.1\10.TopNumber.genruntimeconfig.cache
+D:\Проекти\Fundamentals\Methods-Exercise\10.TopNumber\obj\Debug\netcoreapp3.1\10.TopNumber.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.exe
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.deps.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.runtimeconfig.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.AssemblyInfo.cs
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.genruntimeconfig.cache

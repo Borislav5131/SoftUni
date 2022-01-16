@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.exe
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.deps.json
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.runtimeconfig.json
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.dll
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.pdb
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.dll
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.pdb
+D:\Проекти\Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.genruntimeconfig.cache

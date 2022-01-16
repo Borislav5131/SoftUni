@@ -1,0 +1,13 @@
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.exe
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.deps.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.runtimeconfig.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.runtimeconfig.dev.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.csprojAssemblyReference.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.AssemblyInfoInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.AssemblyInfo.cs
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.csproj.CoreCompileInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\D)\Projects\Encapsulation-Lab\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.exe
+C:\D)\Projects\Encapsulation-Lab\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.deps.json
+C:\D)\Projects\Encapsulation-Lab\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.runtimeconfig.json
+C:\D)\Projects\Encapsulation-Lab\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.runtimeconfig.dev.json
+C:\D)\Projects\Encapsulation-Lab\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.dll
+C:\D)\Projects\Encapsulation-Lab\01.Persons\bin\Debug\netcoreapp3.1\01.Persons.pdb
+C:\D)\Projects\Encapsulation-Lab\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.csproj.AssemblyReference.cache
+C:\D)\Projects\Encapsulation-Lab\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.AssemblyInfoInputs.cache
+C:\D)\Projects\Encapsulation-Lab\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.AssemblyInfo.cs
+C:\D)\Projects\Encapsulation-Lab\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.csproj.CoreCompileInputs.cache
+C:\D)\Projects\Encapsulation-Lab\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.dll
+C:\D)\Projects\Encapsulation-Lab\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.pdb
+C:\D)\Projects\Encapsulation-Lab\01.Persons\obj\Debug\netcoreapp3.1\01.Persons.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.exe
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.deps.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.runtimeconfig.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.runtimeconfig.dev.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.AssemblyInfoInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.AssemblyInfo.cs
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.csproj.CoreCompileInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.genruntimeconfig.cache

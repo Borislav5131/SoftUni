@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\netcoreapp3.1\09.SumOfOddNumbers.exe
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\netcoreapp3.1\09.SumOfOddNumbers.deps.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\netcoreapp3.1\09.SumOfOddNumbers.runtimeconfig.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\netcoreapp3.1\09.SumOfOddNumbers.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\netcoreapp3.1\09.SumOfOddNumbers.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\netcoreapp3.1\09.SumOfOddNumbers.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\netcoreapp3.1\09.SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\netcoreapp3.1\09.SumOfOddNumbers.AssemblyInfo.cs
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\netcoreapp3.1\09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\netcoreapp3.1\09.SumOfOddNumbers.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\netcoreapp3.1\09.SumOfOddNumbers.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\netcoreapp3.1\09.SumOfOddNumbers.genruntimeconfig.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\netcoreapp3.1\09.SumOfOddNumbers.csprojAssemblyReference.cache

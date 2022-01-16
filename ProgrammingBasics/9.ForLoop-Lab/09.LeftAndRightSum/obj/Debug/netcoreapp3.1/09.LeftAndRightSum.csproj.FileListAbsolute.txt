@@ -1,0 +1,12 @@
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.exe
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.deps.json
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.runtimeconfig.json
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.runtimeconfig.dev.json
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.dll
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.pdb
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.AssemblyInfoInputs.cache
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.AssemblyInfo.cs
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.dll
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.pdb
+D:\Проекти\ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.genruntimeconfig.cache

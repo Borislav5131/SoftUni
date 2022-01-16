@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfo.cs
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.exe
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.deps.json
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.json
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.dll
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.pdb
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.dll
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.pdb
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.genruntimeconfig.cache

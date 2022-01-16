@@ -1,0 +1,13 @@
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.AssemblyReference.cache
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\Projects\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache

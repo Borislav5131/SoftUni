@@ -1,0 +1,12 @@
+D:\Проекти\ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.exe
+D:\Проекти\ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.deps.json
+D:\Проекти\ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.runtimeconfig.json
+D:\Проекти\ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.runtimeconfig.dev.json
+D:\Проекти\ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.dll
+D:\Проекти\ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.pdb
+D:\Проекти\ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.AssemblyInfoInputs.cache
+D:\Проекти\ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.AssemblyInfo.cs
+D:\Проекти\ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.csproj.CoreCompileInputs.cache
+D:\Проекти\ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.dll
+D:\Проекти\ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.pdb
+D:\Проекти\ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.genruntimeconfig.cache

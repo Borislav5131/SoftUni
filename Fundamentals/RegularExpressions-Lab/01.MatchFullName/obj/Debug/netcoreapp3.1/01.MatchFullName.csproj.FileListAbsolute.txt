@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.exe
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.deps.json
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.json
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.dll
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.pdb
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfo.cs
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.dll
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.pdb
+D:\Проекти\Fundamentals\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.genruntimeconfig.cache

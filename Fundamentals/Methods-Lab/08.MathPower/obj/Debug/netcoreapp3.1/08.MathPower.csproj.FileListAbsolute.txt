@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.exe
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.deps.json
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.runtimeconfig.json
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.dll
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.pdb
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.dll
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.pdb
+D:\Проекти\Fundamentals\Methods-Lab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.genruntimeconfig.cache

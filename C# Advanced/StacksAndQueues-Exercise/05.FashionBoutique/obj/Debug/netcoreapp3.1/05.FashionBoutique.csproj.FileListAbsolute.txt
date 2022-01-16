@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.genruntimeconfig.cache

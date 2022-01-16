@@ -1,0 +1,13 @@
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.exe
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.deps.json
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.runtimeconfig.json
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.runtimeconfig.dev.json
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.dll
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.pdb
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.csprojAssemblyReference.cache
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.AssemblyInfoInputs.cache
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.AssemblyInfo.cs
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.csproj.CoreCompileInputs.cache
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.dll
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.pdb
+D:\Проекти\ForLoop-Lab\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.genruntimeconfig.cache

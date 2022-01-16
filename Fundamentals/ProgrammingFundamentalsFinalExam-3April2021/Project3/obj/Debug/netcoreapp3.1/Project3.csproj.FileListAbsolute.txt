@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\bin\Debug\netcoreapp3.1\Project3.exe
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\bin\Debug\netcoreapp3.1\Project3.deps.json
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.json
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\bin\Debug\netcoreapp3.1\Project3.dll
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\bin\Debug\netcoreapp3.1\Project3.pdb
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\obj\Debug\netcoreapp3.1\Project3.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfo.cs
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\obj\Debug\netcoreapp3.1\Project3.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\obj\Debug\netcoreapp3.1\Project3.dll
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\obj\Debug\netcoreapp3.1\Project3.pdb
+D:\Проекти\Fundamentals\ProgrammingFundamentalsFinalExam-3April2021\Project3\obj\Debug\netcoreapp3.1\Project3.genruntimeconfig.cache

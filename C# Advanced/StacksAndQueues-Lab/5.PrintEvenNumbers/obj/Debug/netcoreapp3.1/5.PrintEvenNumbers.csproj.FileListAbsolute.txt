@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.genruntimeconfig.cache

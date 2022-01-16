@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.exe
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.deps.json
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.runtimeconfig.json
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.dll
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.pdb
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.AssemblyInfo.cs
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.dll
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.pdb
+D:\Проекти\C# Advanced\MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.exe
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.deps.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.runtimeconfig.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.AssemblyInfo.cs
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.genruntimeconfig.cache

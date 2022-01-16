@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.exe
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.deps.json
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.runtimeconfig.json
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.dll
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.pdb
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.dll
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.pdb
+D:\Проекти\Fundamentals\Methods-Lab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.genruntimeconfig.cache

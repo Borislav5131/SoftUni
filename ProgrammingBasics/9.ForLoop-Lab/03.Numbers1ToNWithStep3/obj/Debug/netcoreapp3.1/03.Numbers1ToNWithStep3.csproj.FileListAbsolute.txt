@@ -1,0 +1,12 @@
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.exe
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.deps.json
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.runtimeconfig.json
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.runtimeconfig.dev.json
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.dll
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.pdb
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.AssemblyInfo.cs
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.dll
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.pdb
+D:\Проекти\ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.genruntimeconfig.cache

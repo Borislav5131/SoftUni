@@ -1,0 +1,12 @@
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.exe
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.deps.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.runtimeconfig.dev.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.dll
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.pdb
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.dll
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.pdb
+C:\Users\borko\source\repos\Data Types and Variables - Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.genruntimeconfig.cache

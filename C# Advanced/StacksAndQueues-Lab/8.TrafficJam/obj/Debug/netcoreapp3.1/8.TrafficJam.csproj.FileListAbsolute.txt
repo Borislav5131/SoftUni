@@ -1,0 +1,12 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.genruntimeconfig.cache

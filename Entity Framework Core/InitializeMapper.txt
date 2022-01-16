@@ -1,0 +1,5 @@
+var mapperConfiguration = new MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile<ProductShopProfile>();
+            });
+            mapper = new Mapper(mapperConfiguration);

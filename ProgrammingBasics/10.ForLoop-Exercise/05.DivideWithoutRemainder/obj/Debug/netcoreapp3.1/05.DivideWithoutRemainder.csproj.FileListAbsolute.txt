@@ -1,0 +1,13 @@
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.exe
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.deps.json
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.runtimeconfig.json
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.runtimeconfig.dev.json
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.dll
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.pdb
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.AssemblyInfoInputs.cache
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.AssemblyInfo.cs
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.csproj.CoreCompileInputs.cache
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.dll
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.pdb
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.genruntimeconfig.cache
+D:\Проекти\10.ForLoop-Exercise\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.csprojAssemblyReference.cache

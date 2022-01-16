@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.exe
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.deps.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfo.cs
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.genruntimeconfig.cache

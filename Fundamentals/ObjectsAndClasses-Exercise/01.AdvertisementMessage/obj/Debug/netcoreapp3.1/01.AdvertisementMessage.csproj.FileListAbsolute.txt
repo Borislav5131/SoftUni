@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.exe
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.deps.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfo.cs
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.genruntimeconfig.cache

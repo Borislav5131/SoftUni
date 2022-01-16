@@ -1,0 +1,12 @@
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.exe
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.deps.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.runtimeconfig.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.runtimeconfig.dev.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.AssemblyInfoInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.AssemblyInfo.cs
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.genruntimeconfig.cache

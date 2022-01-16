@@ -1,0 +1,13 @@
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.exe
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.deps.json
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.runtimeconfig.json
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.runtimeconfig.dev.json
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.dll
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.pdb
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.csprojAssemblyReference.cache
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.AssemblyInfoInputs.cache
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.AssemblyInfo.cs
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.csproj.CoreCompileInputs.cache
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.dll
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.pdb
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.genruntimeconfig.cache

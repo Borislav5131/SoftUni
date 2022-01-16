@@ -1,0 +1,13 @@
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\bin\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.exe
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\bin\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.deps.json
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\bin\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.runtimeconfig.json
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\bin\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.runtimeconfig.dev.json
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\bin\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.dll
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\bin\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.pdb
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\obj\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.csprojAssemblyReference.cache
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\obj\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.AssemblyInfoInputs.cache
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\obj\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.AssemblyInfo.cs
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\obj\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\obj\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.dll
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\obj\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.pdb
+C:\(D)\Проекти\01.TrapeziodArea\SimpleOperationsAndCalculations-More Exercises\obj\Debug\netcoreapp3.1\SimpleOperationsAndCalculations-More Exercises.genruntimeconfig.cache

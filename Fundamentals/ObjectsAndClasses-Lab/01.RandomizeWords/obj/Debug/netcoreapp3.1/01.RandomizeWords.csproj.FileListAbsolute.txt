@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.exe
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.deps.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.runtimeconfig.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.AssemblyInfo.cs
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.dll
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.pdb
+D:\Проекти\Fundamentals\ObjectsAndClasses-Lab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.genruntimeconfig.cache

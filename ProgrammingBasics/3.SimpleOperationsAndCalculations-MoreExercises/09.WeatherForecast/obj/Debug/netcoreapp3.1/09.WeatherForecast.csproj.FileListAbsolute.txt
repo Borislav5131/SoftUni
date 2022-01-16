@@ -1,0 +1,12 @@
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.exe
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.deps.json
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.runtimeconfig.json
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.runtimeconfig.dev.json
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.dll
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.pdb
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.AssemblyInfoInputs.cache
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.AssemblyInfo.cs
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.csproj.CoreCompileInputs.cache
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.dll
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.pdb
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.genruntimeconfig.cache

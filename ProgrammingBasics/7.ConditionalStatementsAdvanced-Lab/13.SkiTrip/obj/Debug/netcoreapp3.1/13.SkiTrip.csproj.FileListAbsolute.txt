@@ -1,0 +1,13 @@
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.exe
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.deps.json
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.runtimeconfig.json
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.runtimeconfig.dev.json
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.dll
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.pdb
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.csprojAssemblyReference.cache
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.AssemblyInfoInputs.cache
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.AssemblyInfo.cs
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.csproj.CoreCompileInputs.cache
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.dll
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.pdb
+D:\Проекти\7.ConditionalStatementsAdvanced-Lab\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.genruntimeconfig.cache

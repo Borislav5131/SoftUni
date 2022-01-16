@@ -1,0 +1,12 @@
+D:\Проекти\11.WhileLoop-Lab\09.Moving\bin\Debug\netcoreapp3.1\09.Moving.exe
+D:\Проекти\11.WhileLoop-Lab\09.Moving\bin\Debug\netcoreapp3.1\09.Moving.deps.json
+D:\Проекти\11.WhileLoop-Lab\09.Moving\bin\Debug\netcoreapp3.1\09.Moving.runtimeconfig.json
+D:\Проекти\11.WhileLoop-Lab\09.Moving\bin\Debug\netcoreapp3.1\09.Moving.runtimeconfig.dev.json
+D:\Проекти\11.WhileLoop-Lab\09.Moving\bin\Debug\netcoreapp3.1\09.Moving.dll
+D:\Проекти\11.WhileLoop-Lab\09.Moving\bin\Debug\netcoreapp3.1\09.Moving.pdb
+D:\Проекти\11.WhileLoop-Lab\09.Moving\obj\Debug\netcoreapp3.1\09.Moving.AssemblyInfoInputs.cache
+D:\Проекти\11.WhileLoop-Lab\09.Moving\obj\Debug\netcoreapp3.1\09.Moving.AssemblyInfo.cs
+D:\Проекти\11.WhileLoop-Lab\09.Moving\obj\Debug\netcoreapp3.1\09.Moving.csproj.CoreCompileInputs.cache
+D:\Проекти\11.WhileLoop-Lab\09.Moving\obj\Debug\netcoreapp3.1\09.Moving.dll
+D:\Проекти\11.WhileLoop-Lab\09.Moving\obj\Debug\netcoreapp3.1\09.Moving.pdb
+D:\Проекти\11.WhileLoop-Lab\09.Moving\obj\Debug\netcoreapp3.1\09.Moving.genruntimeconfig.cache

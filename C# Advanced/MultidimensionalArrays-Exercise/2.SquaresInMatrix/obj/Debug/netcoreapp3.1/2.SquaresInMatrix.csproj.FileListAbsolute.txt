@@ -1,0 +1,12 @@
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.exe
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.deps.json
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.runtimeconfig.json
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.runtimeconfig.dev.json
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.dll
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.pdb
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.AssemblyInfoInputs.cache
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.AssemblyInfo.cs
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.dll
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.pdb
+D:\Проекти\MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.genruntimeconfig.cache

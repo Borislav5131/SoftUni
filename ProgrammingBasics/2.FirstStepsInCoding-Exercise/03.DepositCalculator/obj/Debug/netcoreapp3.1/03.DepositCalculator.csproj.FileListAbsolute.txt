@@ -1,0 +1,12 @@
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.exe
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.deps.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.dev.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfoInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfo.cs
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.genruntimeconfig.cache

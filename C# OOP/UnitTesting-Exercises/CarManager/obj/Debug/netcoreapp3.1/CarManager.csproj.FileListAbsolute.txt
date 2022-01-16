@@ -1,0 +1,18 @@
+D:\Projects\C# OOP\UnitTesting-Exercises\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+D:\Projects\C# OOP\UnitTesting-Exercises\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+D:\Projects\C# OOP\UnitTesting-Exercises\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+D:\Projects\C# OOP\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+D:\Projects\C# OOP\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+D:\Projects\C# OOP\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+D:\Projects\C# OOP\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+D:\Projects\C# OOP\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+D:\Projects\C# OOP\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
+D:\TODO\UnitTesting-Exercises\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+D:\TODO\UnitTesting-Exercises\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+D:\TODO\UnitTesting-Exercises\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+D:\TODO\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+D:\TODO\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+D:\TODO\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+D:\TODO\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+D:\TODO\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+D:\TODO\UnitTesting-Exercises\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

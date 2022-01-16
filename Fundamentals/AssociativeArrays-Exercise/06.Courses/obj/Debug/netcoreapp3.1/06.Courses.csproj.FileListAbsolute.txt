@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.exe
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.deps.json
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.runtimeconfig.json
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.dll
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.pdb
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.AssemblyInfo.cs
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.dll
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.pdb
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+D:\Projects\C# OOP\UnitTesting-Exercises\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\Projects\C# OOP\UnitTesting-Exercises\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\Projects\C# OOP\UnitTesting-Exercises\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\Projects\C# OOP\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+D:\Projects\C# OOP\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\Projects\C# OOP\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\Projects\C# OOP\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\Projects\C# OOP\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\Projects\C# OOP\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.pdb
+D:\TODO\UnitTesting-Exercises\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\TODO\UnitTesting-Exercises\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\TODO\UnitTesting-Exercises\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\TODO\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+D:\TODO\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\TODO\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\TODO\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\TODO\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\TODO\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.pdb

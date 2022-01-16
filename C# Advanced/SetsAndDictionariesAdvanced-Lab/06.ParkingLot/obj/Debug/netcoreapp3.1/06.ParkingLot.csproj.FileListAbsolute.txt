@@ -1,0 +1,12 @@
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.exe
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.deps.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.runtimeconfig.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.AssemblyInfo.cs
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.exe
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.deps.json
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.json
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.dev.json
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.dll
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csprojAssemblyReference.cache
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfoInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfo.cs
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csproj.CoreCompileInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.dll
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+D:\Проекти\12.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\bin\Debug\netcoreapp3.1\7.HotPotato.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\7.HotPotato\obj\Debug\netcoreapp3.1\7.HotPotato.genruntimeconfig.cache

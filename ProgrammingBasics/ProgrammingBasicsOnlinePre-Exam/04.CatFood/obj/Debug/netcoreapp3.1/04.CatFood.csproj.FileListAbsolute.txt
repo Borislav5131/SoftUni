@@ -1,0 +1,12 @@
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\bin\Debug\netcoreapp3.1\04.CatFood.exe
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\bin\Debug\netcoreapp3.1\04.CatFood.deps.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\bin\Debug\netcoreapp3.1\04.CatFood.runtimeconfig.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\bin\Debug\netcoreapp3.1\04.CatFood.runtimeconfig.dev.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\bin\Debug\netcoreapp3.1\04.CatFood.dll
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\bin\Debug\netcoreapp3.1\04.CatFood.pdb
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\obj\Debug\netcoreapp3.1\04.CatFood.AssemblyInfoInputs.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\obj\Debug\netcoreapp3.1\04.CatFood.AssemblyInfo.cs
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\obj\Debug\netcoreapp3.1\04.CatFood.csproj.CoreCompileInputs.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\obj\Debug\netcoreapp3.1\04.CatFood.dll
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\obj\Debug\netcoreapp3.1\04.CatFood.pdb
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\04.CatFood\obj\Debug\netcoreapp3.1\04.CatFood.genruntimeconfig.cache

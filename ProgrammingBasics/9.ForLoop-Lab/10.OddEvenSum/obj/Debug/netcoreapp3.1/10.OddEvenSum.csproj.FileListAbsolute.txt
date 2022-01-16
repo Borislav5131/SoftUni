@@ -1,0 +1,13 @@
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.exe
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.deps.json
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.runtimeconfig.json
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.runtimeconfig.dev.json
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.dll
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.pdb
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.AssemblyInfoInputs.cache
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.AssemblyInfo.cs
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.csproj.CoreCompileInputs.cache
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.dll
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.pdb
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.genruntimeconfig.cache
+D:\Проекти\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.csprojAssemblyReference.cache

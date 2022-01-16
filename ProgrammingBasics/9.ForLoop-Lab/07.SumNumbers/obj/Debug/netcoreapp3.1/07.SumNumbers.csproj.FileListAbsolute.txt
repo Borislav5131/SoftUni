@@ -1,0 +1,12 @@
+D:\Проекти\ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.exe
+D:\Проекти\ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.deps.json
+D:\Проекти\ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.json
+D:\Проекти\ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.dev.json
+D:\Проекти\ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.dll
+D:\Проекти\ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.pdb
+D:\Проекти\ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfoInputs.cache
+D:\Проекти\ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfo.cs
+D:\Проекти\ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.csproj.CoreCompileInputs.cache
+D:\Проекти\ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.dll
+D:\Проекти\ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.pdb
+D:\Проекти\ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.genruntimeconfig.cache

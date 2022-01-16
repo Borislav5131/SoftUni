@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\bin\Debug\netcoreapp3.1\01. NationalCourt.exe
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\bin\Debug\netcoreapp3.1\01. NationalCourt.deps.json
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\bin\Debug\netcoreapp3.1\01. NationalCourt.runtimeconfig.json
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\bin\Debug\netcoreapp3.1\01. NationalCourt.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\bin\Debug\netcoreapp3.1\01. NationalCourt.dll
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\bin\Debug\netcoreapp3.1\01. NationalCourt.pdb
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\obj\Debug\netcoreapp3.1\01. NationalCourt.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\obj\Debug\netcoreapp3.1\01. NationalCourt.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\obj\Debug\netcoreapp3.1\01. NationalCourt.AssemblyInfo.cs
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\obj\Debug\netcoreapp3.1\01. NationalCourt.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\obj\Debug\netcoreapp3.1\01. NationalCourt.dll
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\obj\Debug\netcoreapp3.1\01. NationalCourt.pdb
+D:\Проекти\Fundamentals\04.ProgrammingFundamentalsMidExam\01. NationalCourt\obj\Debug\netcoreapp3.1\01. NationalCourt.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.exe
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.deps.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.runtimeconfig.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.runtimeconfig.dev.json
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.dll
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.pdb
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.csprojAssemblyReference.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.dll
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.pdb
+C:\Users\borko\source\repos\Data Types and Variables - Lab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.genruntimeconfig.cache

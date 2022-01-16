@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.exe
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.deps.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfo.cs
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.exe
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.deps.json
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.runtimeconfig.json
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.runtimeconfig.dev.json
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.dll
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.pdb
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.AssemblyInfoInputs.cache
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.AssemblyInfo.cs
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.csproj.CoreCompileInputs.cache
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.dll
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.pdb
+D:\Проекти\First Steps In Coding - Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.genruntimeconfig.cache

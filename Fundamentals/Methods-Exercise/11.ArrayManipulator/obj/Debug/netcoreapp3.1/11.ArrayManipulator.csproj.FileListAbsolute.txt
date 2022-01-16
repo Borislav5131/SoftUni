@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.exe
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.deps.json
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.runtimeconfig.json
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.dll
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.pdb
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.dll
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.pdb
+D:\Проекти\Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.genruntimeconfig.cache

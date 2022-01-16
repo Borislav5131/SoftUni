@@ -1,0 +1,12 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.AssemblyReference.cache
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Projects\SoftUni\Entity Framework Core\JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache

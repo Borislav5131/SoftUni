@@ -1,0 +1,13 @@
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.csprojAssemblyReference.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.AssemblyInfoInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.AssemblyInfo.cs
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.csproj.CoreCompileInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.exe
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.deps.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.runtimeconfig.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.runtimeconfig.dev.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.genruntimeconfig.cache

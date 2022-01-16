@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.exe
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.deps.json
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.runtimeconfig.json
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.dll
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.pdb
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.dll
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.pdb
+D:\Проекти\Fundamentals\Lists-Lab\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.genruntimeconfig.cache

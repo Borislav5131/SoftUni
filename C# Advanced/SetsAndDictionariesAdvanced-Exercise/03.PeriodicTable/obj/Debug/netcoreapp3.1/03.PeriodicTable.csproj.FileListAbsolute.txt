@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.exe
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.deps.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.runtimeconfig.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.AssemblyInfo.cs
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.genruntimeconfig.cache

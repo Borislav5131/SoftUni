@@ -1,0 +1,12 @@
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\bin\Debug\netcoreapp3.1\05.BirthdayParty.exe
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\bin\Debug\netcoreapp3.1\05.BirthdayParty.deps.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\bin\Debug\netcoreapp3.1\05.BirthdayParty.runtimeconfig.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\bin\Debug\netcoreapp3.1\05.BirthdayParty.runtimeconfig.dev.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\bin\Debug\netcoreapp3.1\05.BirthdayParty.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\bin\Debug\netcoreapp3.1\05.BirthdayParty.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\obj\Debug\netcoreapp3.1\05.BirthdayParty.AssemblyInfoInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\obj\Debug\netcoreapp3.1\05.BirthdayParty.AssemblyInfo.cs
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\obj\Debug\netcoreapp3.1\05.BirthdayParty.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\obj\Debug\netcoreapp3.1\05.BirthdayParty.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\obj\Debug\netcoreapp3.1\05.BirthdayParty.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\05.BirthdayParty\obj\Debug\netcoreapp3.1\05.BirthdayParty.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.exe
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.deps.json
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.json
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.dev.json
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.dll
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.pdb
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csprojAssemblyReference.cache
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfoInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfo.cs
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csproj.CoreCompileInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.dll
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.pdb
+D:\Проекти\12.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "won2c/qG9Qk3AQfTMqZciqTrMPmLzCmYAv05uR0KOLsgCaSDV2+3j7kdZYuuFDmVPW7j2jwCRugMoaqxcqCuYw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C# OOP\\Exams\\OOPRetakeExam-18April2021\\Presents\\Presents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\borko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\borko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\borko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\borko\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

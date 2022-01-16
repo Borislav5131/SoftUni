@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.exe
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.deps.json
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.json
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.dll
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfo.cs
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.dll
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.genruntimeconfig.cache

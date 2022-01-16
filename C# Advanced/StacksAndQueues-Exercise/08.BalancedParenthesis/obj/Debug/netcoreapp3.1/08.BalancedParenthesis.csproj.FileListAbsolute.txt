@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.genruntimeconfig.cache

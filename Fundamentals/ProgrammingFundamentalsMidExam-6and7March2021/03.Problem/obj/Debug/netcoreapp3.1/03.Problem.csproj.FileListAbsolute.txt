@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.exe
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.deps.json
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.runtimeconfig.json
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.dll
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.pdb
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.AssemblyInfo.cs
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.dll
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.pdb
+D:\Проекти\Fundamentals\ProgrammingFundamentalsMidExam-6and7March2021\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.genruntimeconfig.cache

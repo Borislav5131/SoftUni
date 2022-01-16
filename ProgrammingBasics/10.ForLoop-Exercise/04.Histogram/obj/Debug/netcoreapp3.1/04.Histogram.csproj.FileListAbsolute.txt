@@ -1,0 +1,12 @@
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.exe
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.deps.json
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.runtimeconfig.json
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.runtimeconfig.dev.json
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.dll
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.pdb
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.AssemblyInfoInputs.cache
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.AssemblyInfo.cs
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.csproj.CoreCompileInputs.cache
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.dll
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.pdb
+D:\Проекти\10.ForLoop-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.genruntimeconfig.cache

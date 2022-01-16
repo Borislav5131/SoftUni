@@ -1,0 +1,12 @@
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.exe
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.deps.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.runtimeconfig.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.AssemblyInfo.cs
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.genruntimeconfig.cache

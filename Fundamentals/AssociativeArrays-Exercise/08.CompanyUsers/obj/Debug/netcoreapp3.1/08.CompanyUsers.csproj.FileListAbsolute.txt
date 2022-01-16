@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.exe
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfo.cs
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.deps.json
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.json
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.dll
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.pdb
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.dll
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.pdb
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.genruntimeconfig.cache

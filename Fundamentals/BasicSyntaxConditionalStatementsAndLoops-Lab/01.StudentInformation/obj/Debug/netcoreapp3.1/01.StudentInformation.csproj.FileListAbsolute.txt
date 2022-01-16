@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.exe
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.deps.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfo.cs
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.genruntimeconfig.cache

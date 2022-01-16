@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.exe
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.deps.json
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.json
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.dll
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.pdb
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfo.cs
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.dll
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.pdb
+D:\Проекти\Fundamentals\05.MidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.genruntimeconfig.cache

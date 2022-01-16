@@ -1,0 +1,13 @@
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.exe
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.deps.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.runtimeconfig.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.runtimeconfig.dev.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.csprojAssemblyReference.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.AssemblyInfoInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.AssemblyInfo.cs
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.csproj.CoreCompileInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.genruntimeconfig.cache

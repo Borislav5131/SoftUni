@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.exe
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.deps.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfo.cs
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.genruntimeconfig.cache

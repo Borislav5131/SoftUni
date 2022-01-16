@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.exe
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.deps.json
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.runtimeconfig.json
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.dll
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.dll
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.genruntimeconfig.cache

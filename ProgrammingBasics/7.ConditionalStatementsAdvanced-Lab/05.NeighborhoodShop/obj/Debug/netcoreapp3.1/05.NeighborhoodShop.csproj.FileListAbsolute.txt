@@ -1,0 +1,12 @@
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.exe
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.deps.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.runtimeconfig.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.runtimeconfig.dev.json
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.AssemblyInfoInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.AssemblyInfo.cs
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.csproj.CoreCompileInputs.cache
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.dll
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.pdb
+D:\Проекти\ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.genruntimeconfig.cache

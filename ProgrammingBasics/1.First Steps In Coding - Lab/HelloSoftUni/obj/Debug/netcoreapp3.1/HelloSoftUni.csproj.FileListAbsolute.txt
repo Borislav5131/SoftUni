@@ -1,0 +1,13 @@
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.exe
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.deps.json
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.json
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.dev.json
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.dll
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.pdb
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.csprojAssemblyReference.cache
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfoInputs.cache
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfo.cs
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.dll
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.pdb
+D:\Проекти\First Steps In Coding - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.genruntimeconfig.cache

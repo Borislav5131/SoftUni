@@ -1,0 +1,12 @@
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.exe
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.deps.json
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.json
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.dev.json
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.dll
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.pdb
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfoInputs.cache
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfo.cs
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.csproj.CoreCompileInputs.cache
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.dll
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.pdb
+D:\Проекти\11.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.genruntimeconfig.cache

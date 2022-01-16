@@ -1,0 +1,13 @@
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.exe
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.deps.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.runtimeconfig.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.runtimeconfig.dev.json
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.csprojAssemblyReference.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.AssemblyInfoInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.AssemblyInfo.cs
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.dll
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.pdb
+C:\(D)\Проекти\FirstStepsInCoding-Exercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.genruntimeconfig.cache

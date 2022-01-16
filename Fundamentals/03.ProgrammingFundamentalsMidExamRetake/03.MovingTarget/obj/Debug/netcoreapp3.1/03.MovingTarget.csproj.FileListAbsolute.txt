@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.exe
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.deps.json
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.runtimeconfig.json
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.dll
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.pdb
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.AssemblyInfo.cs
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.dll
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.pdb
+D:\Проекти\Fundamentals\03.ProgrammingFundamentalsMidExamRetake\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.genruntimeconfig.cache

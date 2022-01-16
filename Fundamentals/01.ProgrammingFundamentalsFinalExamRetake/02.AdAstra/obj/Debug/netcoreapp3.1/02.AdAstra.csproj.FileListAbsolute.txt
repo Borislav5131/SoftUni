@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.exe
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.deps.json
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.runtimeconfig.json
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.dll
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.pdb
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.AssemblyInfo.cs
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.dll
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.pdb
+D:\Проекти\Fundamentals\01.ProgrammingFundamentalsFinalExamRetake\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.genruntimeconfig.cache

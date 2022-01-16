@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.exe
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.deps.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.runtimeconfig.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.AssemblyInfo.cs
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.genruntimeconfig.cache

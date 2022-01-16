@@ -1,0 +1,13 @@
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.exe
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.deps.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.runtimeconfig.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.runtimeconfig.dev.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.csprojAssemblyReference.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.AssemblyInfoInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.AssemblyInfo.cs
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.csproj.CoreCompileInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.genruntimeconfig.cache

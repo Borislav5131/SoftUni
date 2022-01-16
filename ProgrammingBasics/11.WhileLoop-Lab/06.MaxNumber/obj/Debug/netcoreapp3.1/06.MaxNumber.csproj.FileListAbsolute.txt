@@ -1,0 +1,13 @@
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.exe
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.deps.json
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.json
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.dev.json
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.dll
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.pdb
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csprojAssemblyReference.cache
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfoInputs.cache
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfo.cs
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.CoreCompileInputs.cache
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.dll
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.pdb
+D:\Проекти\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.genruntimeconfig.cache

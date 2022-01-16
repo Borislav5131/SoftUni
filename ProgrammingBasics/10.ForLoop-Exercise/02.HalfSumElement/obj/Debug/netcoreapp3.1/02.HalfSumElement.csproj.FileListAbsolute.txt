@@ -1,0 +1,13 @@
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.exe
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.deps.json
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.json
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.dev.json
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.dll
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.csprojAssemblyReference.cache
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfoInputs.cache
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfo.cs
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.csproj.CoreCompileInputs.cache
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.dll
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+D:\Проекти\ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.genruntimeconfig.cache

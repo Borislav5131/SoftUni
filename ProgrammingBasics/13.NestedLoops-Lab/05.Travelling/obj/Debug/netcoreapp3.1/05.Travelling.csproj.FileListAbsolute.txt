@@ -1,0 +1,12 @@
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.exe
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.deps.json
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.runtimeconfig.json
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.runtimeconfig.dev.json
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.dll
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.pdb
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.AssemblyInfoInputs.cache
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.AssemblyInfo.cs
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.csproj.CoreCompileInputs.cache
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.dll
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.pdb
+D:\Проекти\13.NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.genruntimeconfig.cache

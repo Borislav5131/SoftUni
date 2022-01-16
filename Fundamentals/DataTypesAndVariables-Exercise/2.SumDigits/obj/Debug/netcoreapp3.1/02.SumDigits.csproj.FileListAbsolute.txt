@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\obj\Debug\netcoreapp3.1\02.SumDigits.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\obj\Debug\netcoreapp3.1\02.SumDigits.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\obj\Debug\netcoreapp3.1\02.SumDigits.AssemblyInfo.cs
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\obj\Debug\netcoreapp3.1\02.SumDigits.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\bin\Debug\netcoreapp3.1\02.SumDigits.exe
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\bin\Debug\netcoreapp3.1\02.SumDigits.deps.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\bin\Debug\netcoreapp3.1\02.SumDigits.runtimeconfig.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\bin\Debug\netcoreapp3.1\02.SumDigits.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\bin\Debug\netcoreapp3.1\02.SumDigits.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\bin\Debug\netcoreapp3.1\02.SumDigits.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\obj\Debug\netcoreapp3.1\02.SumDigits.dll
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\obj\Debug\netcoreapp3.1\02.SumDigits.pdb
+D:\Проекти\Fundamentals\DataTypesAndVariables-Exercise\2.SumDigits\obj\Debug\netcoreapp3.1\02.SumDigits.genruntimeconfig.cache

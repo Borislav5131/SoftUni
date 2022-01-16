@@ -1,0 +1,13 @@
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.exe
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.deps.json
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.runtimeconfig.json
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.runtimeconfig.dev.json
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.dll
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.pdb
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.csprojAssemblyReference.cache
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.AssemblyInfoInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.AssemblyInfo.cs
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.dll
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.pdb
+C:\(D)\Проекти\ConditionalStatements-Exercise\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.genruntimeconfig.cache

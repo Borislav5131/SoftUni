@@ -1,0 +1,13 @@
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.exe
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.deps.json
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.runtimeconfig.json
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.runtimeconfig.dev.json
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.dll
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.pdb
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.csproj.AssemblyReference.cache
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.AssemblyInfoInputs.cache
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.AssemblyInfo.cs
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.dll
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.pdb
+D:\Проекти\MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.genruntimeconfig.cache

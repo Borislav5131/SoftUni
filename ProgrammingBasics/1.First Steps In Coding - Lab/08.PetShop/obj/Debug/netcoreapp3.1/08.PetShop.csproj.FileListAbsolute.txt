@@ -1,0 +1,12 @@
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.exe
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.deps.json
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.json
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.dev.json
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.dll
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.pdb
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfoInputs.cache
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfo.cs
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.csproj.CoreCompileInputs.cache
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.dll
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.pdb
+D:\Проекти\First Steps In Coding - Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\bin\Debug\netcoreapp3.1\02.CalorieCalculator.exe
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\bin\Debug\netcoreapp3.1\02.CalorieCalculator.deps.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\bin\Debug\netcoreapp3.1\02.CalorieCalculator.runtimeconfig.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\bin\Debug\netcoreapp3.1\02.CalorieCalculator.runtimeconfig.dev.json
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\bin\Debug\netcoreapp3.1\02.CalorieCalculator.dll
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\bin\Debug\netcoreapp3.1\02.CalorieCalculator.pdb
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\obj\Debug\netcoreapp3.1\02.CalorieCalculator.AssemblyInfoInputs.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\obj\Debug\netcoreapp3.1\02.CalorieCalculator.AssemblyInfo.cs
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\obj\Debug\netcoreapp3.1\02.CalorieCalculator.csproj.CoreCompileInputs.cache
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\obj\Debug\netcoreapp3.1\02.CalorieCalculator.dll
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\obj\Debug\netcoreapp3.1\02.CalorieCalculator.pdb
+D:\Проекти\ProgrammingBasicsOnlinePre-Exam\02.CalorieCalculator\obj\Debug\netcoreapp3.1\02.CalorieCalculator.genruntimeconfig.cache

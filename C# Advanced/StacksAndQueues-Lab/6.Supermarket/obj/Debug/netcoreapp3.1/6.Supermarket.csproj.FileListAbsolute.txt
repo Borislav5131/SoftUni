@@ -1,0 +1,12 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.genruntimeconfig.cache

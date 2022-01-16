@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.exe
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.deps.json
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.runtimeconfig.json
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.dll
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.pdb
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.dll
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.pdb
+D:\Проекти\Fundamentals\Methods-Exercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.genruntimeconfig.cache

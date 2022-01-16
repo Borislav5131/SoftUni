@@ -1,0 +1,13 @@
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.exe
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.deps.json
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.json
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.dev.json
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csprojAssemblyReference.cache
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfo.cs
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+D:\Проекти\ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.genruntimeconfig.cache

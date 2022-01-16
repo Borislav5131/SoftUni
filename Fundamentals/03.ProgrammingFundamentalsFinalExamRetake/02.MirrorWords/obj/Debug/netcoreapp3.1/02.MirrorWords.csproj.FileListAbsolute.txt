@@ -1,0 +1,13 @@
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.exe
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.deps.json
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.runtimeconfig.json
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.runtimeconfig.dev.json
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.dll
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.pdb
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.csprojAssemblyReference.cache
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.AssemblyInfo.cs
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.dll
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.pdb
+C:\Users\borko\Desktop\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.genruntimeconfig.cache

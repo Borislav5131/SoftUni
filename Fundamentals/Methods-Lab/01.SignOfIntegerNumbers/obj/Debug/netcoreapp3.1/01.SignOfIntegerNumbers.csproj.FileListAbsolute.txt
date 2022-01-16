@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.exe
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.deps.json
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.json
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+D:\Проекти\Fundamentals\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.genruntimeconfig.cache

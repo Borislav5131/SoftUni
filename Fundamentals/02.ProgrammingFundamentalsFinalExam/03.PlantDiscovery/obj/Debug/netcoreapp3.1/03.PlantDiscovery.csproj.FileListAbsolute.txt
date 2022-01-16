@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.exe
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.deps.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.runtimeconfig.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.AssemblyInfo.cs
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.genruntimeconfig.cache

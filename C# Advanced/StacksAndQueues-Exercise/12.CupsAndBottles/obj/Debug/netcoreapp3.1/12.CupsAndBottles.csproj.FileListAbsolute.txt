@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.genruntimeconfig.cache

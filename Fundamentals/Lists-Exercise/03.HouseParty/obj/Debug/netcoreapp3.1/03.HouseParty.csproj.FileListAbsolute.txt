@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.exe
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.deps.json
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.runtimeconfig.json
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.dll
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.dll
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.exe
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.deps.json
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.runtimeconfig.json
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.runtimeconfig.dev.json
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.dll
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.pdb
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.csprojAssemblyReference.cache
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.AssemblyInfoInputs.cache
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.AssemblyInfo.cs
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.dll
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.pdb
+D:\Проекти\First Steps In Coding - Lab\InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.genruntimeconfig.cache

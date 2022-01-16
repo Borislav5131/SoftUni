@@ -1,0 +1,13 @@
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.exe
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.deps.json
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.runtimeconfig.json
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.runtimeconfig.dev.json
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.dll
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.pdb
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.csproj.AssemblyReference.cache
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.AssemblyInfoInputs.cache
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.AssemblyInfo.cs
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.dll
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.pdb
+D:\Проекти\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.genruntimeconfig.cache

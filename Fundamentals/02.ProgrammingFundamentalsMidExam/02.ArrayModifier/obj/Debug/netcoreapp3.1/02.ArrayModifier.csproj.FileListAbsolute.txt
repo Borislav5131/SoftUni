@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.exe
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.deps.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfo.cs
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.dll
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+D:\Проекти\Fundamentals\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.genruntimeconfig.cache

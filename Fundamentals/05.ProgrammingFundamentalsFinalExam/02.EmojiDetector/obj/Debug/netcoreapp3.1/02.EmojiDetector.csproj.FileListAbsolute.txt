@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.exe
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.deps.json
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.json
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.dll
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfo.cs
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.dll
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+D:\Проекти\Fundamentals\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.genruntimeconfig.cache

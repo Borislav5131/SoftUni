@@ -1,0 +1,4 @@
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.exe
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.AssemblyInfo.cs

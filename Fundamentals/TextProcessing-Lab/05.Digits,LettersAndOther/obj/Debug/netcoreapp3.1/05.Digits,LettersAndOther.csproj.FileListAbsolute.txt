@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.exe
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.deps.json
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.runtimeconfig.json
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.dll
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.pdb
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.AssemblyInfo.cs
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.dll
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.pdb
+D:\Проекти\Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.genruntimeconfig.cache

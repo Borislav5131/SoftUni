@@ -1,0 +1,12 @@
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.exe
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.deps.json
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.runtimeconfig.json
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.runtimeconfig.dev.json
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.dll
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.pdb
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.AssemblyInfo.cs
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.dll
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.pdb
+D:\Проекти\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.genruntimeconfig.cache

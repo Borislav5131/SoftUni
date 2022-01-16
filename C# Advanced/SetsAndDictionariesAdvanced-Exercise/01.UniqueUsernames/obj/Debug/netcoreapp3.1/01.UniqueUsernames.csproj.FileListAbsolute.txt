@@ -1,0 +1,13 @@
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.exe
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.deps.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.runtimeconfig.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.csproj.AssemblyReference.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.AssemblyInfo.cs
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.dll
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.pdb
+D:\Проекти\C# Advanced\SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.genruntimeconfig.cache

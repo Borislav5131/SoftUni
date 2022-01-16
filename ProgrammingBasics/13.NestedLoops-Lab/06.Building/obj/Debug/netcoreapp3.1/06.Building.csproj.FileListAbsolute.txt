@@ -1,0 +1,13 @@
+D:\Проекти\13.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.exe
+D:\Проекти\13.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.deps.json
+D:\Проекти\13.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.json
+D:\Проекти\13.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.dev.json
+D:\Проекти\13.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.dll
+D:\Проекти\13.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.pdb
+D:\Проекти\13.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.csprojAssemblyReference.cache
+D:\Проекти\13.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfoInputs.cache
+D:\Проекти\13.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfo.cs
+D:\Проекти\13.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.csproj.CoreCompileInputs.cache
+D:\Проекти\13.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.dll
+D:\Проекти\13.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.pdb
+D:\Проекти\13.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.genruntimeconfig.cache

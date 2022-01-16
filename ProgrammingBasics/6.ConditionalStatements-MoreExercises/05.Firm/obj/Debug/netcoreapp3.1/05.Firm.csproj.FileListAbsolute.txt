@@ -1,0 +1,13 @@
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.exe
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.deps.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.runtimeconfig.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.runtimeconfig.dev.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\bin\Debug\netcoreapp3.1\05.Firm.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.csprojAssemblyReference.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.AssemblyInfoInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.AssemblyInfo.cs
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.csproj.CoreCompileInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\05.Firm\obj\Debug\netcoreapp3.1\05.Firm.genruntimeconfig.cache

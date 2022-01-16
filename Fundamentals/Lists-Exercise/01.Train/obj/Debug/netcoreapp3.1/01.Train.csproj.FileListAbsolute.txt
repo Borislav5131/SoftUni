@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\bin\Debug\netcoreapp3.1\01.Train.exe
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\bin\Debug\netcoreapp3.1\01.Train.deps.json
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\bin\Debug\netcoreapp3.1\01.Train.runtimeconfig.json
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\bin\Debug\netcoreapp3.1\01.Train.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\bin\Debug\netcoreapp3.1\01.Train.dll
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\bin\Debug\netcoreapp3.1\01.Train.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\obj\Debug\netcoreapp3.1\01.Train.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\obj\Debug\netcoreapp3.1\01.Train.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\obj\Debug\netcoreapp3.1\01.Train.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\obj\Debug\netcoreapp3.1\01.Train.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\obj\Debug\netcoreapp3.1\01.Train.dll
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\obj\Debug\netcoreapp3.1\01.Train.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\01.Train\obj\Debug\netcoreapp3.1\01.Train.genruntimeconfig.cache

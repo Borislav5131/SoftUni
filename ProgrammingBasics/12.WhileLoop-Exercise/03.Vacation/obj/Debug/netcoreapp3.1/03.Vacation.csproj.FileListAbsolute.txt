@@ -1,0 +1,13 @@
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.exe
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.deps.json
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.json
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.dev.json
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.dll
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.pdb
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.csprojAssemblyReference.cache
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfoInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfo.cs
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.csproj.CoreCompileInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.dll
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.pdb
+D:\Проекти\12.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.genruntimeconfig.cache

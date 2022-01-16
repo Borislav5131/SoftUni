@@ -1,0 +1,12 @@
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.exe
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.deps.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.runtimeconfig.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.runtimeconfig.dev.json
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.AssemblyInfoInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.AssemblyInfo.cs
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.csproj.CoreCompileInputs.cache
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.dll
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.pdb
+D:\Проекти\C# Advanced\StacksAndQueues-Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csprojAssemblyReference.cache
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfoInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfo.cs
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.exe
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.deps.json
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.json
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.dev.json
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.dll
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.pdb
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.dll
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.pdb
+C:\(D)\Проекти\ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.genruntimeconfig.cache

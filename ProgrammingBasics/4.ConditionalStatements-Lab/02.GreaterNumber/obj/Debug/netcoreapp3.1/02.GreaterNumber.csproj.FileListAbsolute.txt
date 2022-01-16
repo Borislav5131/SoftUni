@@ -1,0 +1,13 @@
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.exe
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.deps.json
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.json
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.dev.json
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.dll
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csprojAssemblyReference.cache
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfoInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfo.cs
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.dll
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+C:\(D)\Проекти\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.genruntimeconfig.cache

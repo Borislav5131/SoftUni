@@ -1,0 +1,13 @@
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.exe
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.deps.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.runtimeconfig.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.runtimeconfig.dev.json
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.csprojAssemblyReference.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.AssemblyInfoInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.AssemblyInfo.cs
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.csproj.CoreCompileInputs.cache
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.dll
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.pdb
+D:\Проекти\6.ConditionalStatements-MoreExercises\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.genruntimeconfig.cache

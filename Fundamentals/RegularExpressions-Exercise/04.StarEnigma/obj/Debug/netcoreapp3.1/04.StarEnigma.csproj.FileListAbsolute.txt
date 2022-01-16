@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.exe
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.deps.json
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.runtimeconfig.json
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.dll
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.pdb
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.AssemblyInfo.cs
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.dll
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.pdb
+D:\Проекти\Fundamentals\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.genruntimeconfig.cache

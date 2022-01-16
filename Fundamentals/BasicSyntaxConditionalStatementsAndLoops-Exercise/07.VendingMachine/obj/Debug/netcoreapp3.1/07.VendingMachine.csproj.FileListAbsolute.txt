@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.exe
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.deps.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfo.cs
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.genruntimeconfig.cache

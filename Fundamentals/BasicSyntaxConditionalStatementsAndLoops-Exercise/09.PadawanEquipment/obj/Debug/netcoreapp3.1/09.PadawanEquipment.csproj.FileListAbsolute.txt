@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.exe
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.deps.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfo.cs
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.genruntimeconfig.cache
+D:\Проекти\Fundamentals\BasicSyntaxConditionalStatementsAndLoops-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csprojAssemblyReference.cache

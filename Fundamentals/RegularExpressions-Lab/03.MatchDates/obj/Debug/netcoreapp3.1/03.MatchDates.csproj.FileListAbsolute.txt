@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.exe
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.deps.json
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.runtimeconfig.json
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.dll
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.pdb
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.AssemblyInfo.cs
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.dll
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.pdb
+D:\Проекти\Fundamentals\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.genruntimeconfig.cache

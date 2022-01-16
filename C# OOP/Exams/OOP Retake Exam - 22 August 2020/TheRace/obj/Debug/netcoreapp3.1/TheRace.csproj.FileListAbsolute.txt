@@ -1,0 +1,10 @@
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
+D:\Projects\C# OOP\Exams\OOP Retake Exam - 22 August 2020\TheRace\obj\Debug\netcoreapp3.1\TheRace.GeneratedMSBuildEditorConfig.editorconfig

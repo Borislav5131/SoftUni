@@ -1,0 +1,13 @@
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\bin\Debug\netcoreapp3.1\07. CinemaTickets.exe
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\bin\Debug\netcoreapp3.1\07. CinemaTickets.deps.json
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\bin\Debug\netcoreapp3.1\07. CinemaTickets.runtimeconfig.json
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\bin\Debug\netcoreapp3.1\07. CinemaTickets.runtimeconfig.dev.json
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\bin\Debug\netcoreapp3.1\07. CinemaTickets.dll
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\bin\Debug\netcoreapp3.1\07. CinemaTickets.pdb
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\obj\Debug\netcoreapp3.1\07. CinemaTickets.csprojAssemblyReference.cache
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\obj\Debug\netcoreapp3.1\07. CinemaTickets.AssemblyInfoInputs.cache
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\obj\Debug\netcoreapp3.1\07. CinemaTickets.AssemblyInfo.cs
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\obj\Debug\netcoreapp3.1\07. CinemaTickets.csproj.CoreCompileInputs.cache
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\obj\Debug\netcoreapp3.1\07. CinemaTickets.dll
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\obj\Debug\netcoreapp3.1\07. CinemaTickets.pdb
+D:\Проекти\13.NestedLoops-Lab\07. CinemaTickets\obj\Debug\netcoreapp3.1\07. CinemaTickets.genruntimeconfig.cache

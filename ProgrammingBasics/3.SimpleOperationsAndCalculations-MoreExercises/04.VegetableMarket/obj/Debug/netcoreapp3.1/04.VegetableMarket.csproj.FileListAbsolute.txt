@@ -1,0 +1,12 @@
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.exe
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.deps.json
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.runtimeconfig.json
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.runtimeconfig.dev.json
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.dll
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.pdb
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.AssemblyInfoInputs.cache
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.AssemblyInfo.cs
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.csproj.CoreCompileInputs.cache
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.dll
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.pdb
+C:\(D)\Проекти\SimpleOperationsAndCalculations-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.genruntimeconfig.cache

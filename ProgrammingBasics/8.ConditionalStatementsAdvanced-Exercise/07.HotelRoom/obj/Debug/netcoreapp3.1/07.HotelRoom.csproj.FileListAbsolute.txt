@@ -1,0 +1,13 @@
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.exe
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.deps.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.dev.json
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csprojAssemblyReference.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfoInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfo.cs
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csproj.CoreCompileInputs.cache
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.dll
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.pdb
+D:\Проекти\8.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.genruntimeconfig.cache

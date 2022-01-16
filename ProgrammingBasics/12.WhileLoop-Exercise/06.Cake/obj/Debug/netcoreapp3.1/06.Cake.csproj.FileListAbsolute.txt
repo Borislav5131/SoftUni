@@ -1,0 +1,12 @@
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.exe
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.deps.json
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.json
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.dev.json
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.dll
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.pdb
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfoInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfo.cs
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csproj.CoreCompileInputs.cache
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.dll
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.pdb
+D:\Проекти\12.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.genruntimeconfig.cache

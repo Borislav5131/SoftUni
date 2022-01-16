@@ -1,0 +1,13 @@
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.exe
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.deps.json
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.json
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.dll
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.csprojAssemblyReference.cache
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.dll
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.pdb
+D:\Проекти\Fundamentals\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.genruntimeconfig.cache

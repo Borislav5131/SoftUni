@@ -1,0 +1,12 @@
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.exe
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.deps.json
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.json
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.dev.json
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.dll
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.pdb
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfoInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfo.cs
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.csproj.CoreCompileInputs.cache
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.dll
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.pdb
+D:\Проекти\Fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.exe
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.deps.json
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.json
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.dev.json
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.dll
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.pdb
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfoInputs.cache
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfo.cs
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.csproj.CoreCompileInputs.cache
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.dll
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.pdb
+D:\Проекти\11.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.genruntimeconfig.cache
